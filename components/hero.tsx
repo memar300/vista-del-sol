@@ -49,7 +49,7 @@ export function Hero() {
             transition={{ delay: 0.5, duration: 0.6 }}
             className="text-lg md:text-xl text-primary-foreground/80 mb-12"
           >
-            Starting at <span className="font-semibold text-primary-foreground">$140,000</span>
+            Starting at <span className="font-semibold text-primary-foreground">$100,000</span>
           </motion.p>
           
           <motion.div
